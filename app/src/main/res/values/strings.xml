@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wardrobe</string>
+
+    <string name="dialog_title_add_top">Add Top</string>
+    <string name="dialog_title_add_bottom">Add Bottom</string>
+
+    <string name="snackbar_favourite_saved">Favourite saved!</string>
+    <string name="snackbar_favourite_removed">Favourite removed</string>
+    <string name="snackbar_try_again">Oops! Please try again</string>
+    <string name="snackbar_add_clothes">Add some clothes to your wardrobe!</string>
+    <string name="snackbar_option_undo">Undo</string>
+
+    <array name="options_select_picture">
+        <item>Camera</item>
+        <item>Gallery</item>
+    </array>
+</resources>
